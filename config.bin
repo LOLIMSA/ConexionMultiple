@@ -1,0 +1,16 @@
+#DO NOT DELETE THIS FILE. (C) LOLIMSA
+#Created At: 2018-11-08
+#Thu Nov 08 12:56:30 COT 2018
+sgbd=PostgreSQL
+host=localhost
+port=5432
+password=postgres
+database=e_qullana
+user=postgres
+allowPublicKeyRetrieval=true
+verifyServerCertificate=false
+zeroDateTimeBehavior=convertToNull
+requireSSL=false
+useSSL=false
+autoReconnect=false
+tax_electricity=true
